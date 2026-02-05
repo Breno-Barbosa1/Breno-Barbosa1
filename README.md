@@ -1,9 +1,34 @@
-<h2>Hello, my name is Breno Barbosa. I am a student of Systems Development at Unifacisa - Campina Grande - Brazil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" /></h2>
+# 🚀 Hi there, I'm Breno Barbosa! 👋👋
 
-<h3>
-  I currently use the following technologies: <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java Logo" width="50" height="50" /> 
-  <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="Spring Boot Logo" width="60" height="60" />
-</h3>
-<h3>
-  I have a growing passion for programming and web development, i also aspire to be a better developer everyday.
-</h3>
+I am a **Systems Development student** at **Unifacisa** (Campina Grande, Brazil), currently one year into my 2.5-year technical program. I have a growing passion for backend development and i am trying to improve constantly.
+
+---
+
+### 🛠 My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot |
+| **Frontend** | React, TypeScript |
+| **Database** | MySQL, Flyway Migrations |
+| **Security** | Spring Security, JWT |
+| **Testing** | JUnit 5, Mockito, Testcontainers |
+| **Others** | Swagger, HATEOAS, DTO Pattern |
+
+---
+
+### 📂 Featured Project: Full-Stack E-Commerce
+I am currently developing an e-commerce API to master the integration between Spring Boot and React (Personal Study Project).
+* **Security:** Spring Security and **JWT Tokens**.
+* **Reliability:** 100% verified through **Integration Tests** using **Testcontainers**.
+* **Modern Architecture:** Utilizing **HATEOAS** for discoverable APIs and **Flyway** for database migrations.
+
+👉 **[Check out the repository here!](https://github.com/Breno-Barbosa1/basic-ecommerce-project-java-springboot)**
+
+---
+
+### 📫 Connect with me
+* **Location:** Campina Grande, PB - Brazil
+* **Education:** Unifacisa - Systems Development
+* **Professional:** Aspiring Developer
+* **Linkedin:** https://www.linkedin.com/in/breno-barbosa-411187363/
