@@ -8,8 +8,8 @@ I am a **Systems Development student** at **Unifacisa** (Campina Grande, Brazil)
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | Java, Spring Boot |
-| **Frontend** | React, TypeScript |
+| **Backend** | Java, Python |
+| **Frameworks** | Spring Boot, React |
 | **Database** | MySQL, Flyway Migrations |
 | **Security** | Spring Security, JWT |
 | **Testing** | JUnit 5, Mockito, Testcontainers |
