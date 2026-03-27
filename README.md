@@ -1,6 +1,6 @@
 # 🚀 Hi there, I'm Breno Barbosa! 👋👋
 
-I am a **Systems Development student** at **Unifacisa** (Campina Grande, Brazil), currently one year into my 2.5-year technical program. I have a growing passion for backend development and i am trying to improve constantly.
+I am a **Systems Development student** at **Unifacisa** (Campina Grande, Brazil). I have a growing passion for backend development and I am trying to improve constantly.
 
 ---
 
