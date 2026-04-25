@@ -12,7 +12,7 @@ I am a **Systems Development student** at **Unifacisa** (Campina Grande, Brazil)
 | **Frameworks** | Spring Boot, React |
 | **Database** | MySQL, Flyway Migrations |
 | **Security** | Spring Security, JWT |
-| **Testing** | JUnit 5, Mockito, Testcontainers |
+| **Testing** | JUnit 5, Mockito|
 | **Others** | Swagger, HATEOAS, DTO Pattern |
 
 ---
