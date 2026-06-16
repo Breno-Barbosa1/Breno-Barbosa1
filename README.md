@@ -39,27 +39,6 @@ Currently improving my skills in REST APIs, authentication/authorization, databa
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
-
-## 📌 Featured Projects
-
-### 🛒 E-commerce API
-Backend API built with Java and Spring Boot.
-
-#### Features:
-- JWT Authentication
-- Spring Security
-- RESTful API
-- Database relationships
-- DTO pattern
-- Swagger documentation
-- JPA/Hibernate
-- MySQL integration
-
-> This project helped me strengthen my backend fundamentals and improve my understanding of secure API development.
-
----
-
 ## 📈 GitHub Stats
 
 ![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Barbosa1&show_icons=true&theme=tokyonight)
