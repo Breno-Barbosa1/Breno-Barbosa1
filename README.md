@@ -1,16 +1,13 @@
 # Hi, I'm Breno Barbosa 👋
 
-### Backend Developer | Java Spring Boot
-
-I am a backend development student focused on building scalable and secure applications using Java and Spring Boot.  
-Currently improving my skills in REST APIs, authentication/authorization, database modeling, and automated testing.
-
----
+### Backend Developer | Python FastAPI | Java Spring Boot 
 
 ## 🚀 About Me
 
 - 💻 Focused on Backend Development
-- 🌱 Currently improving my knowledge in:
+  - Python
+  - FastAPI
+  - Java
   - Spring Boot
   - Spring Security
   - JPA / Hibernate
@@ -18,13 +15,15 @@ Currently improving my skills in REST APIs, authentication/authorization, databa
   - Automated Testing
 - ⚡ Basic knowledge of React and JavaScript
 - 🛠 Passionate about learning clean architecture and best practices
-- 🎯 Looking for opportunities to grow as a Java Backend Developer
+- 🎯 Looking for opportunities to grow as a Backend Developer
 
 ---
 
 ## 🧰 Tech Stack
 
 ### Backend
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
